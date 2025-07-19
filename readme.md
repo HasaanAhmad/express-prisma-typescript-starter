@@ -85,7 +85,7 @@ be/
 ### 1. **Clone the Repository**
 
 ```bash
-git clone <your-repo-url>
+git clone <https://github.com/HasaanAhmad/express-prisma-typescript-starter>
 cd be
 ```
 
